@@ -1,4 +1,4 @@
-# Giải Thuật `Strange Printer` (Hard Problem) Sử Dụng Dynamic Programming
+# Giải Thuật `Strange Printer` (Hard Problem - lecture 664) Sử Dụng Dynamic Programming
 
 ## Mô tả bài toán
 

@@ -51,6 +51,7 @@ public:
 
 // Optimized solution using pointers for better performance
 // This approach minimizes unnecessary function calls based on the previous solution
+
 class Solution {
 public:
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
