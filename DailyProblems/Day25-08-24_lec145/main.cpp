@@ -63,9 +63,9 @@ public:
                 current = current->left;
             }
             else{
-                // if the left node is null but have left node 
                 TreeNode* node = st.top();
                 
+                // if the left node is null but have right node 
                 if(node->right != nullptr && lastVisited != node->right){
                     current = node->right;
                 }
